@@ -3,17 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".git/config": "8eba946d2b5fa9a4bfae794d6577a6b2",
-".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
-".git/FETCH_HEAD": "0f7aa5c0e74e43e00ef6e19191bacccd",
-".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
-".git/hooks/README.sample": "d82bea07313becc69a9abcb4556a924f",
-".git/index": "68935359db4c6720c3fe94335c070be1",
-".git/info/exclude": "d718c267464b76000574e4fb4d9cbafd",
-".git/logs/HEAD": "2d157313c962645c45a5f47e5b7b64da",
-".git/logs/refs/heads/master": "2d157313c962645c45a5f47e5b7b64da",
-".git/logs/refs/remotes/origin/master": "2d157313c962645c45a5f47e5b7b64da",
-".git/objects/1d/1f433b25c06dc61df7e3ddb194e40ce29f148b": "070dc6a97f67bedee65c73139665c579",
+  ".git/objects/1d/1f433b25c06dc61df7e3ddb194e40ce29f148b": "070dc6a97f67bedee65c73139665c579",
 ".git/objects/32/46ad559eeae0370195978eaed83f1053ee13fd": "a043dbc0a0bda96ce2127799ccc27506",
 ".git/objects/35/b665af794e2e479fa377c0cbda81c1764b43a3": "a7822aba2355aa9029c63d294ab8e71b",
 ".git/objects/46/4ab5882a2234c39b1a4dbad5feba0954478155": "2e52a767dc04391de7b4d0beb32e7fc4",
@@ -39,10 +29,7 @@ const RESOURCES = {
 ".git/objects/eb/9b4d76e525556d5d89141648c724331630325d": "37c0954235cbe27c4d93e74fe9a578ef",
 ".git/objects/ef/ce6080e27d884379d491b85ff7acb4c8a547f5": "702deaab66cfd7302a94b9af5ed84d51",
 ".git/objects/f2/320808f61b92aad6e4dcfa0f6693c38345a33a": "92adf22468a53f086aa0622461517e76",
-".git/objects/pack/pack-9032a085e4159503c86dfa0097161a108e294b0a.idx": "bc9cdf38acc54b7a2dac7df0a631ea6f",
-".git/objects/pack/pack-9032a085e4159503c86dfa0097161a108e294b0a.pack": "b1df4a1c668f8a1daaeeb63e0dbf5cce",
 ".git/refs/heads/master": "4366933ee6cb9e537078620b2c84779b",
-".git/refs/remotes/origin/HEAD": "73a00957034783b7b5c8294c54cd3e12",
 ".git/refs/remotes/origin/master": "4366933ee6cb9e537078620b2c84779b",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -54,12 +41,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "97e1086adf079aacd45ce90a75531394",
-"/": "97e1086adf079aacd45ce90a75531394",
+"index.html": "6c2831f48ec34c4f655e4c6da8a184aa",
+"/": "6c2831f48ec34c4f655e4c6da8a184aa",
 "main.dart.js": "d16428e4fee33132bbbe7c39d7f569cd",
 "manifest.json": "288423439ee7ec5c5d41736fbabb9c2d",
-"README.md": "bf8c241ff65236b8221dd3645faf8251",
-"version.json": "dd93b63e4853e30b2be6e99c9be87ae5"
+"version.json": "3036c3cce26bdc4d688911ede6983590"
 };
 
 // The application shell files that are downloaded before a service worker can
